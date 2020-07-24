@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstTranslator</string>
+
+    <string name="text_for_input">Слово для перевода</string>
+    <string name="todo">TODO</string>
+    <string name="edited_text">Hello world</string>
+</resources>
